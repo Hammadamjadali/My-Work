@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(102, 102, 102);
+    
+}
+.navbar-brand,a{
+    color: whitesmoke !important;
+}
+.navbar-nav a:hover{
+    color: aqua !important;
+    text-decoration: underline;
+
+}
+.error{
+    margin: auto;
+    text-align: center;
+
+}
+.error h1{
+    font-size: 80px;
+}
